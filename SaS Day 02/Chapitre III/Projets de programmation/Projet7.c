@@ -19,7 +19,7 @@ int main() {
         a = b;
         b = r;
     }
-
+/*a hiya pgc*/
     pgc = a; 
 
     printf("Le plus grand commun diviseur est %d\n", pgc);
